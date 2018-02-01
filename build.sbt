@@ -15,5 +15,6 @@ libraryDependencies ++= Seq(
 
   "org.http4s" %% "http4s-dsl" % http4sVersion,
   "org.http4s" %% "http4s-blaze-server" % http4sVersion,
-  "org.http4s" %% "http4s-blaze-client" % http4sVersion
+  "org.http4s" %% "http4s-blaze-client" % http4sVersion,
+  "net.debasishg" %% "redisclient" % "3.4"
 )
