@@ -5,7 +5,8 @@ class FetchTwitterData {
 
 
 
-  def process(): Unit = {
+  def process(): Boolean = {
+    true
 
   }
 
